@@ -1,0 +1,519 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\free2\Documents\GitHub\MyKeyBoard\pcb\myKeyBoard\MyPCB.PcbDoc
+Date     : 16-6-15
+Time     : 0:46:14
+
+Processing Rule : Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图'))
+   Violation between Room Definition: Between Component Z-MX_SWITCH (10210mil,12515mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component Y-MX_SWITCH (13450mil,14005mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component X-MX_SWITCH (11010mil,12560mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component W-MX_SWITCH (10455mil,14070mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component V-MX_SWITCH (12435mil,12620mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component VOL--MX_SWITCH (20740mil,15520mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component VOL+-MX_SWITCH (20040mil,15525mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component U-MX_SWITCH (14175mil,14020mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component UP-MX_SWITCH (20680mil,12495mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component T-MX_SWITCH (12630mil,14045mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component TAB-MX_SWITCH (8800mil,13270mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component S-MX_SWITCH (10660mil,13290mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component SPACE-MX_SWITCH (13315mil,11795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component SCLK-MX_SWITCH (17855mil,16840mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component RWIN-MX_SWITCH (17035mil,11800mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component R-MX_SWITCH (11880mil,14025mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component RSHIFT-MX_SWITCH (18355mil,12565mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component RIGHT-MX_SWITCH (21465mil,11805mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component RCTRL-MX_SWITCH (18925mil,11795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Small Component RCAP-Res2 (19225.669mil,16096.079mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component RALT-MX_SWITCH (16120mil,11790mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component Q-MX_SWITCH (9655mil,14035mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component P-MX_SWITCH (16405mil,14035mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component PS-MX_SWITCH (18285mil,15510mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component POWER-MX_SWITCH (21515mil,15490mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component PGUP-MX_SWITCH (21465mil,14775mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component PGDN-MX_SWITCH (21515mil,14050mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component PAUSE-MX_SWITCH (18490mil,16795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between SIP Component P1-Header 24 (19345mil,14405mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component O-MX_SWITCH (15625mil,14040mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component N-MX_SWITCH (13935mil,12505mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component M-MX_SWITCH (14705mil,12595mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component MENU-MX_SWITCH (17990mil,11795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component LWIN-MX_SWITCH (9555mil,11795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component L-MX_SWITCH (15890mil,13340mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component LSHIFT-MX_SWITCH (8980mil,12550mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component LEFT-MX_SWITCH (19955mil,11795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component LCTRL-MX_SWITCH (8615mil,11795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component LALT-MX_SWITCH (10505mil,11775mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component K-MX_SWITCH (15205mil,13275mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component J-MX_SWITCH (14330mil,13260mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component I-MX_SWITCH (14865mil,13995mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component INSERT-MX_SWITCH (19965mil,14795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component H-MX_SWITCH (13610mil,13365mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component HOME-MX_SWITCH (20760mil,14790mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component G-MX_SWITCH (12830mil,13340mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F-MX_SWITCH (12090mil,13320mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F12-MX_SWITCH (17525mil,15460mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F11-MX_SWITCH (16820mil,15515mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F10-MX_SWITCH (16030mil,15480mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F9-MX_SWITCH (15270mil,15590mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F8-MX_SWITCH (14640mil,15490mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F7-MX_SWITCH (13750mil,15470mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F6-MX_SWITCH (13045mil,15440mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F5-MX_SWITCH (12320mil,15470mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F4-MX_SWITCH (11530mil,15590mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F3-MX_SWITCH (10810mil,15470mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F2-MX_SWITCH (10030mil,15365mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component F1-MX_SWITCH (9255mil,15455mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component E-MX_SWITCH (11130mil,14055mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component ESC-MX_SWITCH (8560mil,15415mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component ENTER-MX_SWITCH (18555mil,13295mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component END-MX_SWITCH (20700mil,14025mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component D-MX_SWITCH (11330mil,13310mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component DOWN-MX_SWITCH (20710mil,11795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component DELETE-MX_SWITCH (19975mil,13985mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Small Component DCAP-Diode 1N4001 (19102.677mil,16078.362mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component C-MX_SWITCH (11720mil,12580mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component CAPS-MX_SWITCH_LED (8675mil,14015mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component B-MX_SWITCH (13225mil,12540mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component BS-MX_SWITCH (18655mil,14790mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component A-MX_SWITCH (9850mil,13275mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component `~-MX_SWITCH (8510mil,14785mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component ]}-MX_SWITCH (17935mil,14025mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component \-MX_SWITCH (18855mil,14060mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component [{-MX_SWITCH (17120mil,14060mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component ;-MX_SWITCH (16585mil,13275mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 9-MX_SWITCH (15250mil,14815mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 8-MX_SWITCH (14545mil,14750mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 7-MX_SWITCH (13775mil,14805mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 6-MX_SWITCH (13015mil,14815mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 5-MX_SWITCH (12275mil,14820mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 4-MX_SWITCH (11495mil,14770mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 3-MX_SWITCH (10810mil,14730mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 2-MX_SWITCH (10090mil,14730mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 1-MX_SWITCH (9240mil,14760mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component 0-MX_SWITCH (16040mil,14745mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component /?-MX_SWITCH (16890mil,12515mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component .>-MX_SWITCH (16235mil,12540mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component --MX_SWITCH (16755mil,14820mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component ,<-MX_SWITCH (15460mil,12535mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component +=-MX_SWITCH (17525mil,14795mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+   Violation between Room Definition: Between Component '"-MX_SWITCH (17365mil,13265mil) on Top Layer And Room 原理图 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('原理图')) 
+Rule Violations :93
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "PGDN" (21244.5mil,14360.5mil) on Top Overlay And Track (19295mil,14355mil)(21695mil,14355mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "DELETE" (19704.5mil,14295.5mil) on Top Overlay And Track (19295mil,14355mil)(21695mil,14355mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "END" (20429.5mil,14335.5mil) on Top Overlay And Track (19295mil,14355mil)(21695mil,14355mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "DCAP" (19053.177mil,16357.862mil) on Top Overlay And Text "RCAP" (19192.169mil,16357.579mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :4
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (8.419mil < 10mil) Between Track (19225.669mil,15936.079mil)(19225.669mil,15976.079mil) on Top Overlay And Pad RCAP-1(19225.669mil,15896.079mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [8.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.419mil < 10mil) Between Track (19225.669mil,16216.079mil)(19225.669mil,16256.079mil) on Top Overlay And Pad RCAP-2(19225.669mil,16296.079mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [8.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "PGDN" (21244.5mil,14360.5mil) on Top Overlay And Pad P1-22(21445mil,14405mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "PGDN" (21244.5mil,14360.5mil) on Top Overlay And Pad P1-21(21345mil,14405mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "PGDN" (21244.5mil,14360.5mil) on Top Overlay And Pad P1-20(21245mil,14405mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "END" (20429.5mil,14335.5mil) on Top Overlay And Pad P1-13(20545mil,14405mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "END" (20429.5mil,14335.5mil) on Top Overlay And Pad P1-12(20445mil,14405mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "ENTER" (18013mil,13733mil) on Top Overlay And Pad ]}-3(18085mil,13825mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :8
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad SPACE-(13315mil,11795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad ENTER-(18555mil,13295mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad ENTER-(18085mil,13620mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad ENTER-(19025mil,13620mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (120mil > 100mil) Pad ENTER-(19025mil,13020mil) on Multi-Layer Actual Hole Size = 120mil
+   Violation between Hole Size Constraint: (120mil > 100mil) Pad ENTER-(18085mil,13020mil) on Multi-Layer Actual Hole Size = 120mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad RSHIFT-(18355mil,12565mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad LSHIFT-(8980mil,12550mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad BS-(18655mil,14790mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad Z-(10210mil,12515mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad Y-(13450mil,14005mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad X-(11010mil,12560mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad W-(10455mil,14070mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad VOL--(20740mil,15520mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad VOL+-(20040mil,15525mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad V-(12435mil,12620mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad UP-(20680mil,12495mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad U-(14175mil,14020mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad TAB-(8800mil,13270mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad T-(12630mil,14045mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad SCLK-(17855mil,16840mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad S-(10660mil,13290mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad RWIN-(17035mil,11800mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad RIGHT-(21465mil,11805mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad RCTRL-(18925mil,11795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad RALT-(16120mil,11790mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad R-(11880mil,14025mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad Q-(9655mil,14035mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad PS-(18285mil,15510mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad POWER-(21515mil,15490mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad PGUP-(21465mil,14775mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad PGDN-(21515mil,14050mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad PAUSE-(18490mil,16795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad P-(16405mil,14035mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad O-(15625mil,14040mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad N-(13935mil,12505mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad MENU-(17990mil,11795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad M-(14705mil,12595mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad LWIN-(9555mil,11795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad LEFT-(19955mil,11795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad LCTRL-(8615mil,11795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad LALT-(10505mil,11775mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad L-(15890mil,13340mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad K-(15205mil,13275mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad J-(14330mil,13260mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad INSERT-(19965mil,14795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad I-(14865mil,13995mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad HOME-(20760mil,14790mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad H-(13610mil,13365mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad G-(12830mil,13340mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F12-(17525mil,15460mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F11-(16820mil,15515mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F10-(16030mil,15480mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F9-(15270mil,15590mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F8-(14640mil,15490mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F7-(13750mil,15470mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F6-(13045mil,15440mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F5-(12320mil,15470mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F4-(11530mil,15590mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F3-(10810mil,15470mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F2-(10030mil,15365mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F1-(9255mil,15455mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad F-(12090mil,13320mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad ESC-(8560mil,15415mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad END-(20700mil,14025mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad E-(11130mil,14055mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad DOWN-(20710mil,11795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad DELETE-(19975mil,13985mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad D-(11330mil,13310mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad CAPS-(8675mil,14015mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad C-(11720mil,12580mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad B-(13225mil,12540mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad A-(9850mil,13275mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad `~-(8510mil,14785mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad ]}-(17935mil,14025mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad \-(18855mil,14060mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad [{-(17120mil,14060mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad ;-(16585mil,13275mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 9-(15250mil,14815mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 8-(14545mil,14750mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 7-(13775mil,14805mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 6-(13015mil,14815mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 5-(12275mil,14820mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 4-(11495mil,14770mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 3-(10810mil,14730mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 2-(10090mil,14730mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 1-(9240mil,14760mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad 0-(16040mil,14745mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad /?-(16890mil,12515mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad .>-(16235mil,12540mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad --(16755mil,14820mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad ,<-(15460mil,12535mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad +=-(17525mil,14795mil) on Multi-Layer Actual Hole Size = 157mil
+   Violation between Hole Size Constraint: (157mil > 100mil) Pad '"-(17365mil,13265mil) on Multi-Layer Actual Hole Size = 157mil
+Rule Violations :94
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net P24 Between Pad LWIN-0(9655mil,11995mil) on Multi-Layer And Pad 2-0(9890mil,14830mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P24 Between Pad RWIN-0(17135mil,12000mil) on Multi-Layer And Pad P1-24(21645mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P24 Between Pad LWIN-0(9655mil,11995mil) on Multi-Layer And Pad RWIN-0(17135mil,12000mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P23 Between Pad VOL+-0(20140mil,15725mil) on Multi-Layer And Pad VOL--0(20840mil,15720mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P23 Between Pad VOL--0(20840mil,15720mil) on Multi-Layer And Pad P1-23(21545mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P23 Between Pad RCTRL-0(19025mil,11995mil) on Multi-Layer And Pad VOL+-0(20140mil,15725mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P23 Between Pad 0-0(15840mil,14845mil) on Multi-Layer And Pad VOL+-0(20140mil,15725mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P23 Between Pad LCTRL-0(8715mil,11995mil) on Multi-Layer And Pad 0-0(15840mil,14845mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P22 Between Pad END-0(20800mil,14225mil) on Multi-Layer And Pad P1-22(21445mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P22 Between Pad P1-22(21445mil,14405mil) on Multi-Layer And Pad POWER-0(21615mil,15690mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P22 Between Pad \-0(18955mil,14260mil) on Multi-Layer And Pad END-0(20800mil,14225mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P22 Between Pad CAPS-0(8775mil,14215mil) on Multi-Layer And Pad LALT-0(10605mil,11975mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P22 Between Pad RALT-0(16220mil,11990mil) on Multi-Layer And Pad \-0(18955mil,14260mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P22 Between Pad LALT-0(10605mil,11975mil) on Multi-Layer And Pad RALT-0(16220mil,11990mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P21 Between Pad F2-3(10180mil,15165mil) on Multi-Layer And Pad F3-3(10960mil,15270mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P21 Between Pad P1-21(21345mil,14405mil) on Multi-Layer And Pad POWER-3(21665mil,15290mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P21 Between Pad ESC-3(8710mil,15215mil) on Multi-Layer And Pad F2-3(10180mil,15165mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P21 Between Pad 6-3(13215mil,14965mil) on Multi-Layer And Pad 8-3(14745mil,14900mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P21 Between Pad LCTRL-3(8765mil,11595mil) on Multi-Layer And Pad Z-3(10410mil,12665mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P21 Between Pad 6-3(13215mil,14965mil) on Multi-Layer And Pad SPACE-3(13465mil,11595mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P21 Between Pad F3-3(10960mil,15270mil) on Multi-Layer And Pad 6-3(13215mil,14965mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P21 Between Pad F2-3(10180mil,15165mil) on Multi-Layer And Pad Z-3(10410mil,12665mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P21 Between Pad 8-3(14745mil,14900mil) on Multi-Layer And Pad P1-21(21345mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P20 Between Pad RALT-3(16270mil,11590mil) on Multi-Layer And Pad .>-3(16385mil,12340mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P20 Between Pad F9-3(15420mil,15390mil) on Multi-Layer And Pad F10-3(16180mil,15280mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P20 Between Pad F10-3(16180mil,15280mil) on Multi-Layer And Pad F12-3(17675mil,15260mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P20 Between Pad .>-3(16385mil,12340mil) on Multi-Layer And Pad '"-3(17515mil,13065mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P20 Between Pad U-3(14375mil,14170mil) on Multi-Layer And Pad F9-3(15420mil,15390mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P20 Between Pad F12-3(17675mil,15260mil) on Multi-Layer And Pad P1-20(21245mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P20 Between Pad '"-3(17515mil,13065mil) on Multi-Layer And Pad F12-3(17675mil,15260mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P19 Between Pad P1-19(21145mil,14405mil) on Multi-Layer And Pad PGUP-3(21615mil,14575mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P19 Between Pad 1-3(9440mil,14910mil) on Multi-Layer And Pad 3-3(11010mil,14880mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P19 Between Pad LALT-3(10655mil,11575mil) on Multi-Layer And Pad X-3(11210mil,12710mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P19 Between Pad X-3(11210mil,12710mil) on Multi-Layer And Pad G-3(13030mil,13490mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P19 Between Pad ENTER-3(18705mil,13095mil) on Multi-Layer And Pad P1-19(21145mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P19 Between Pad 3-3(11010mil,14880mil) on Multi-Layer And Pad X-3(11210mil,12710mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P19 Between Pad G-3(13030mil,13490mil) on Multi-Layer And Pad ENTER-3(18705mil,13095mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P18 Between Pad VOL--3(20890mil,15320mil) on Multi-Layer And Pad P1-18(21045mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P18 Between Pad INSERT-3(20115mil,14595mil) on Multi-Layer And Pad P1-18(21045mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P18 Between Pad P1-18(21045mil,14405mil) on Multi-Layer And Pad PGDN-3(21665mil,13850mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P18 Between Pad H-3(13810mil,13515mil) on Multi-Layer And Pad M-3(14905mil,12745mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P18 Between Pad `~-3(8660mil,14585mil) on Multi-Layer And Pad LSHIFT-3(9130mil,12350mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P18 Between Pad ]}-3(18085mil,13825mil) on Multi-Layer And Pad INSERT-3(20115mil,14595mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P18 Between Pad `~-3(8660mil,14585mil) on Multi-Layer And Pad 4-3(11695mil,14920mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P18 Between Pad 4-3(11695mil,14920mil) on Multi-Layer And Pad H-3(13810mil,13515mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P18 Between Pad M-3(14905mil,12745mil) on Multi-Layer And Pad ]}-3(18085mil,13825mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P17 Between Pad HOME-3(20910mil,14590mil) on Multi-Layer And Pad P1-17(20945mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P17 Between Pad VOL+-3(20190mil,15325mil) on Multi-Layer And Pad HOME-3(20910mil,14590mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P17 Between Pad V-3(12635mil,12770mil) on Multi-Layer And Pad N-3(14135mil,12655mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P17 Between Pad PS-3(18435mil,15310mil) on Multi-Layer And Pad VOL+-3(20190mil,15325mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P17 Between Pad R-3(12080mil,14175mil) on Multi-Layer And Pad V-3(12635mil,12770mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P17 Between Pad N-3(14135mil,12655mil) on Multi-Layer And Pad L-3(16090mil,13490mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P17 Between Pad PS-3(18435mil,15310mil) on Multi-Layer And Pad RSHIFT-3(18505mil,12365mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P17 Between Pad L-3(16090mil,13490mil) on Multi-Layer And Pad RSHIFT-3(18505mil,12365mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P16 Between Pad A-3(10050mil,13425mil) on Multi-Layer And Pad 2-3(10290mil,14880mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P16 Between Pad I-3(15065mil,14145mil) on Multi-Layer And Pad --3(16905mil,14620mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P16 Between Pad --3(16905mil,14620mil) on Multi-Layer And Pad SCLK-3(18005mil,16640mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P16 Between Pad P1-16(20845mil,14405mil) on Multi-Layer And Pad RIGHT-3(21615mil,11605mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P16 Between Pad --3(16905mil,14620mil) on Multi-Layer And Pad P1-16(20845mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P16 Between Pad 2-3(10290mil,14880mil) on Multi-Layer And Pad I-3(15065mil,14145mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P15 Between Pad [{-3(17270mil,13860mil) on Multi-Layer And Pad +=-3(17675mil,14595mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P15 Between Pad F11-3(16970mil,15315mil) on Multi-Layer And Pad +=-3(17675mil,14595mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P15 Between Pad P1-15(20745mil,14405mil) on Multi-Layer And Pad UP-3(20830mil,12295mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P15 Between Pad F11-3(16970mil,15315mil) on Multi-Layer And Pad DCAP-2(19102.677mil,16284.268mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P15 Between Pad J-3(14530mil,13410mil) on Multi-Layer And Pad [{-3(17270mil,13860mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P15 Between Pad W-3(10655mil,14220mil) on Multi-Layer And Pad J-3(14530mil,13410mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P15 Between Pad +=-3(17675mil,14595mil) on Multi-Layer And Pad P1-15(20745mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P14 Between Pad F5-3(12470mil,15270mil) on Multi-Layer And Pad 5-3(12475mil,14970mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P14 Between Pad 5-3(12475mil,14970mil) on Multi-Layer And Pad 7-3(13975mil,14955mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P14 Between Pad \-3(19005mil,13860mil) on Multi-Layer And Pad P1-14(20645mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P14 Between Pad 7-3(13975mil,14955mil) on Multi-Layer And Pad 0-3(16240mil,14895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P14 Between Pad D-3(11530mil,13460mil) on Multi-Layer And Pad 5-3(12475mil,14970mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P14 Between Pad P1-14(20645mil,14405mil) on Multi-Layer And Pad DOWN-3(20860mil,11595mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P14 Between Pad 0-3(16240mil,14895mil) on Multi-Layer And Pad \-3(19005mil,13860mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P13 Between Pad DELETE-3(20125mil,13785mil) on Multi-Layer And Pad END-3(20850mil,13825mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P13 Between Pad P1-13(20545mil,14405mil) on Multi-Layer And Pad END-3(20850mil,13825mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P13 Between Pad MENU-3(18140mil,11595mil) on Multi-Layer And Pad LEFT-3(20105mil,11595mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P13 Between Pad F8-3(14790mil,15290mil) on Multi-Layer And Pad O-3(15825mil,14190mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P13 Between Pad F-3(12290mil,13470mil) on Multi-Layer And Pad O-3(15825mil,14190mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P13 Between Pad LEFT-3(20105mil,11595mil) on Multi-Layer And Pad DELETE-3(20125mil,13785mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P13 Between Pad O-3(15825mil,14190mil) on Multi-Layer And Pad DELETE-3(20125mil,13785mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P12 Between Pad F6-3(13195mil,15240mil) on Multi-Layer And Pad F7-3(13900mil,15270mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P12 Between Pad ,<-3(15610mil,12335mil) on Multi-Layer And Pad /?-3(17040mil,12315mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P12 Between Pad P-3(16605mil,14185mil) on Multi-Layer And Pad /?-3(17040mil,12315mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P12 Between Pad P-3(16605mil,14185mil) on Multi-Layer And Pad P1-12(20445mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P12 Between Pad S-3(10860mil,13440mil) on Multi-Layer And Pad F6-3(13195mil,15240mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P12 Between Pad F7-3(13900mil,15270mil) on Multi-Layer And Pad P-3(16605mil,14185mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P11 Between Pad K-3(15405mil,13425mil) on Multi-Layer And Pad ;-3(16785mil,13425mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P11 Between Pad E-3(11330mil,14205mil) on Multi-Layer And Pad F4-3(11680mil,15390mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P11 Between Pad K-3(15405mil,13425mil) on Multi-Layer And Pad 9-3(15450mil,14965mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P11 Between Pad ;-3(16785mil,13425mil) on Multi-Layer And Pad RWIN-3(17185mil,11600mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P11 Between Pad PAUSE-3(18640mil,16595mil) on Multi-Layer And Pad P1-11(20345mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P11 Between Pad LWIN-3(9705mil,11595mil) on Multi-Layer And Pad E-3(11330mil,14205mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P11 Between Pad F4-3(11680mil,15390mil) on Multi-Layer And Pad 9-3(15450mil,14965mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P11 Between Pad ;-3(16785mil,13425mil) on Multi-Layer And Pad P1-11(20345mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P10 Between Pad T-3(12830mil,14195mil) on Multi-Layer And Pad Y-3(13650mil,14155mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P10 Between Pad F1-3(9405mil,15255mil) on Multi-Layer And Pad Q-3(9855mil,14185mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P10 Between Pad BS-3(18805mil,14590mil) on Multi-Layer And Pad P1-10(20245mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P10 Between Pad B-3(13425mil,12690mil) on Multi-Layer And Pad Y-3(13650mil,14155mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P10 Between Pad TAB-3(8950mil,13070mil) on Multi-Layer And Pad Q-3(9855mil,14185mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P10 Between Pad BS-3(18805mil,14590mil) on Multi-Layer And Pad RCTRL-3(19075mil,11595mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P10 Between Pad Q-3(9855mil,14185mil) on Multi-Layer And Pad T-3(12830mil,14195mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P10 Between Pad Y-3(13650mil,14155mil) on Multi-Layer And Pad BS-3(18805mil,14590mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P9 Between Pad DELETE-0(20075mil,14185mil) on Multi-Layer And Pad P1-9(20145mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P9 Between Pad RSHIFT-0(18455mil,12765mil) on Multi-Layer And Pad DELETE-0(20075mil,14185mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P9 Between Pad LSHIFT-0(9080mil,12750mil) on Multi-Layer And Pad RSHIFT-0(18455mil,12765mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad P1-8(20045mil,14405mil) on Multi-Layer And Pad INSERT-0(20065mil,14995mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad 7-0(13575mil,14905mil) on Multi-Layer And Pad U-0(13975mil,14120mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad BS-0(18755mil,14990mil) on Multi-Layer And Pad INSERT-0(20065mil,14995mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad F4-0(11630mil,15790mil) on Multi-Layer And Pad R-0(11680mil,14125mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad S-0(10460mil,13390mil) on Multi-Layer And Pad R-0(11680mil,14125mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad [{-0(17220mil,14260mil) on Multi-Layer And Pad BS-0(18755mil,14990mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad P1-8(20045mil,14405mil) on Multi-Layer And Pad LEFT-0(20055mil,11995mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad ESC-0(8660mil,15615mil) on Multi-Layer And Pad F4-0(11630mil,15790mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad R-0(11680mil,14125mil) on Multi-Layer And Pad U-0(13975mil,14120mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P8 Between Pad U-0(13975mil,14120mil) on Multi-Layer And Pad [{-0(17220mil,14260mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P7 Between Pad MENU-0(18090mil,11995mil) on Multi-Layer And Pad P1-7(19945mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P7 Between Pad 5-0(12075mil,14920mil) on Multi-Layer And Pad P1-7(19945mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad ,<-0(15560mil,12735mil) on Multi-Layer And Pad .>-0(16335mil,12740mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad W-0(10255mil,14170mil) on Multi-Layer And Pad 3-0(10610mil,14830mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad M-0(14505mil,12695mil) on Multi-Layer And Pad ,<-0(15560mil,12735mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad M-0(14505mil,12695mil) on Multi-Layer And Pad K-0(15005mil,13375mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad 6-0(12815mil,14915mil) on Multi-Layer And Pad Y-0(13250mil,14105mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad W-0(10255mil,14170mil) on Multi-Layer And Pad C-0(11520mil,12680mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad P1-6(19845mil,14405mil) on Multi-Layer And Pad DOWN-0(20810mil,11995mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad 3-0(10610mil,14830mil) on Multi-Layer And Pad 6-0(12815mil,14915mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad Y-0(13250mil,14105mil) on Multi-Layer And Pad K-0(15005mil,13375mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P6 Between Pad .>-0(16335mil,12740mil) on Multi-Layer And Pad P1-6(19845mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad 8-0(14345mil,14850mil) on Multi-Layer And Pad 9-0(15050mil,14915mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad 8-0(14345mil,14850mil) on Multi-Layer And Pad I-0(14665mil,14095mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad F8-0(14740mil,15690mil) on Multi-Layer And Pad 9-0(15050mil,14915mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad H-0(13410mil,13465mil) on Multi-Layer And Pad N-0(13735mil,12605mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad F6-0(13145mil,15640mil) on Multi-Layer And Pad F8-0(14740mil,15690mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad T-0(12430mil,14145mil) on Multi-Layer And Pad H-0(13410mil,13465mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad D-0(11130mil,13410mil) on Multi-Layer And Pad T-0(12430mil,14145mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad '"-0(17465mil,13465mil) on Multi-Layer And Pad P1-5(19745mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad 1-0(9040mil,14860mil) on Multi-Layer And Pad D-0(11130mil,13410mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad H-0(13410mil,13465mil) on Multi-Layer And Pad I-0(14665mil,14095mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P5 Between Pad I-0(14665mil,14095mil) on Multi-Layer And Pad '"-0(17465mil,13465mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad V-0(12235mil,12720mil) on Multi-Layer And Pad B-0(13025mil,12640mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad V-0(12235mil,12720mil) on Multi-Layer And Pad G-0(12630mil,13440mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad G-0(12630mil,13440mil) on Multi-Layer And Pad J-0(14130mil,13360mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad F2-0(10130mil,15565mil) on Multi-Layer And Pad 4-0(11295mil,14870mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad 4-0(11295mil,14870mil) on Multi-Layer And Pad F5-0(12420mil,15670mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad J-0(14130mil,13360mil) on Multi-Layer And Pad O-0(15425mil,14140mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad A-0(9650mil,13375mil) on Multi-Layer And Pad F2-0(10130mil,15565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad O-0(15425mil,14140mil) on Multi-Layer And Pad /?-0(16990mil,12715mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad F12-0(17625mil,15660mil) on Multi-Layer And Pad P1-4(19645mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad F5-0(12420mil,15670mil) on Multi-Layer And Pad G-0(12630mil,13440mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P4 Between Pad /?-0(16990mil,12715mil) on Multi-Layer And Pad F12-0(17625mil,15660mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad Z-0(10010mil,12615mil) on Multi-Layer And Pad X-0(10810mil,12660mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad F10-0(16130mil,15680mil) on Multi-Layer And Pad --0(16855mil,15020mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad Q-0(9455mil,14135mil) on Multi-Layer And Pad E-0(10930mil,14155mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad ]}-0(18035mil,14225mil) on Multi-Layer And Pad P1-3(19545mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad F7-0(13850mil,15670mil) on Multi-Layer And Pad F10-0(16130mil,15680mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad L-0(15690mil,13440mil) on Multi-Layer And Pad F10-0(16130mil,15680mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad P1-3(19545mil,14405mil) on Multi-Layer And Pad UP-0(20780mil,12695mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad X-0(10810mil,12660mil) on Multi-Layer And Pad E-0(10930mil,14155mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad --0(16855mil,15020mil) on Multi-Layer And Pad ]}-0(18035mil,14225mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P3 Between Pad E-0(10930mil,14155mil) on Multi-Layer And Pad F7-0(13850mil,15670mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad PGUP-0(21565mil,14975mil) on Multi-Layer And Pad PGDN-0(21615mil,14250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad F11-0(16920mil,15715mil) on Multi-Layer And Pad PS-0(18385mil,15710mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad PS-0(18385mil,15710mil) on Multi-Layer And Pad PAUSE-0(18590mil,16995mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad F1-0(9355mil,15655mil) on Multi-Layer And Pad F3-0(10910mil,15670mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad F9-0(15370mil,15790mil) on Multi-Layer And Pad F11-0(16920mil,15715mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad RIGHT-0(21565mil,12005mil) on Multi-Layer And Pad PGDN-0(21615mil,14250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad P1-2(19445mil,14405mil) on Multi-Layer And Pad PGDN-0(21615mil,14250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad F3-0(10910mil,15670mil) on Multi-Layer And Pad F-0(11890mil,13420mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad PS-0(18385mil,15710mil) on Multi-Layer And Pad P1-2(19445mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P2 Between Pad F3-0(10910mil,15670mil) on Multi-Layer And Pad F9-0(15370mil,15790mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P1 Between Pad P-0(16205mil,14135mil) on Multi-Layer And Pad ;-0(16385mil,13375mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P1 Between Pad ENTER-0(18655mil,13495mil) on Multi-Layer And Pad P1-1(19345mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P1 Between Pad `~-0(8610mil,14985mil) on Multi-Layer And Pad TAB-0(8900mil,13470mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P1 Between Pad P1-1(19345mil,14405mil) on Multi-Layer And Pad HOME-0(20860mil,14990mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P1 Between Pad P-0(16205mil,14135mil) on Multi-Layer And Pad +=-0(17625mil,14995mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P1 Between Pad +=-0(17625mil,14995mil) on Multi-Layer And Pad SCLK-0(17955mil,17040mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P1 Between Pad SPACE-0(13415mil,11995mil) on Multi-Layer And Pad ;-0(16385mil,13375mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P1 Between Pad +=-0(17625mil,14995mil) on Multi-Layer And Pad P1-1(19345mil,14405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net P1 Between Pad TAB-0(8900mil,13470mil) on Multi-Layer And Pad SPACE-0(13415mil,11995mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetZ_1 Between Pad Z-1(10110mil,12365mil) on Multi-Layer And Pad Z-2(10410mil,12365mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetY_1 Between Pad Y-1(13350mil,13855mil) on Multi-Layer And Pad Y-2(13650mil,13855mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetX_1 Between Pad X-1(10910mil,12410mil) on Multi-Layer And Pad X-2(11210mil,12410mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetW_1 Between Pad W-1(10355mil,13920mil) on Multi-Layer And Pad W-2(10655mil,13920mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetVOL-_1 Between Pad VOL--2(20590mil,15320mil) on Multi-Layer And Pad VOL--1(20590mil,15620mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetVOL+_1 Between Pad VOL+-2(19890mil,15325mil) on Multi-Layer And Pad VOL+-1(19890mil,15625mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetV_1 Between Pad V-1(12335mil,12470mil) on Multi-Layer And Pad V-2(12635mil,12470mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetUP_1 Between Pad UP-2(20530mil,12295mil) on Multi-Layer And Pad UP-1(20530mil,12595mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetU_1 Between Pad U-1(14075mil,13870mil) on Multi-Layer And Pad U-2(14375mil,13870mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetTAB_1 Between Pad TAB-2(8650mil,13070mil) on Multi-Layer And Pad TAB-1(8650mil,13370mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetT_1 Between Pad T-1(12530mil,13895mil) on Multi-Layer And Pad T-2(12830mil,13895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetSPACE_1 Between Pad SPACE-2(13165mil,11595mil) on Multi-Layer And Pad SPACE-1(13165mil,11895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetSCLK_1 Between Pad SCLK-2(17705mil,16640mil) on Multi-Layer And Pad SCLK-1(17705mil,16940mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetS_1 Between Pad S-1(10560mil,13140mil) on Multi-Layer And Pad S-2(10860mil,13140mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetRWIN_1 Between Pad RWIN-2(16885mil,11600mil) on Multi-Layer And Pad RWIN-1(16885mil,11900mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetRSHIFT_1 Between Pad RSHIFT-2(18205mil,12365mil) on Multi-Layer And Pad RSHIFT-1(18205mil,12665mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetRIGHT_1 Between Pad RIGHT-2(21315mil,11605mil) on Multi-Layer And Pad RIGHT-1(21315mil,11905mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetRCTRL_1 Between Pad RCTRL-2(18775mil,11595mil) on Multi-Layer And Pad RCTRL-1(18775mil,11895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetRALT_1 Between Pad RALT-2(15970mil,11590mil) on Multi-Layer And Pad RALT-1(15970mil,11890mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetR_1 Between Pad R-1(11780mil,13875mil) on Multi-Layer And Pad R-2(12080mil,13875mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetQ_1 Between Pad Q-1(9555mil,13885mil) on Multi-Layer And Pad Q-2(9855mil,13885mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetPS_1 Between Pad PS-2(18135mil,15310mil) on Multi-Layer And Pad PS-1(18135mil,15610mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetPOWER_1 Between Pad POWER-2(21365mil,15290mil) on Multi-Layer And Pad POWER-1(21365mil,15590mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetPGUP_1 Between Pad PGUP-2(21315mil,14575mil) on Multi-Layer And Pad PGUP-1(21315mil,14875mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetPGDN_1 Between Pad PGDN-2(21365mil,13850mil) on Multi-Layer And Pad PGDN-1(21365mil,14150mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetPAUSE_1 Between Pad PAUSE-2(18340mil,16595mil) on Multi-Layer And Pad PAUSE-1(18340mil,16895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetP_1 Between Pad P-1(16305mil,13885mil) on Multi-Layer And Pad P-2(16605mil,13885mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetO_1 Between Pad O-1(15525mil,13890mil) on Multi-Layer And Pad O-2(15825mil,13890mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetN_1 Between Pad N-1(13835mil,12355mil) on Multi-Layer And Pad N-2(14135mil,12355mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetMENU_1 Between Pad MENU-2(17840mil,11595mil) on Multi-Layer And Pad MENU-1(17840mil,11895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetM_1 Between Pad M-1(14605mil,12445mil) on Multi-Layer And Pad M-2(14905mil,12445mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetLWIN_1 Between Pad LWIN-2(9405mil,11595mil) on Multi-Layer And Pad LWIN-1(9405mil,11895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetLSHIFT_1 Between Pad LSHIFT-2(8830mil,12350mil) on Multi-Layer And Pad LSHIFT-1(8830mil,12650mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetLEFT_1 Between Pad LEFT-2(19805mil,11595mil) on Multi-Layer And Pad LEFT-1(19805mil,11895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetLCTRL_1 Between Pad LCTRL-2(8465mil,11595mil) on Multi-Layer And Pad LCTRL-1(8465mil,11895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetLALT_1 Between Pad LALT-2(10355mil,11575mil) on Multi-Layer And Pad LALT-1(10355mil,11875mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetL_1 Between Pad L-1(15790mil,13190mil) on Multi-Layer And Pad L-2(16090mil,13190mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetK_1 Between Pad K-1(15105mil,13125mil) on Multi-Layer And Pad K-2(15405mil,13125mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ_1 Between Pad J-1(14230mil,13110mil) on Multi-Layer And Pad J-2(14530mil,13110mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetINSERT_1 Between Pad INSERT-2(19815mil,14595mil) on Multi-Layer And Pad INSERT-1(19815mil,14895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetI_1 Between Pad I-1(14765mil,13845mil) on Multi-Layer And Pad I-2(15065mil,13845mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetHOME_1 Between Pad HOME-2(20610mil,14590mil) on Multi-Layer And Pad HOME-1(20610mil,14890mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetH_1 Between Pad H-1(13510mil,13215mil) on Multi-Layer And Pad H-2(13810mil,13215mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetG_1 Between Pad G-1(12730mil,13190mil) on Multi-Layer And Pad G-2(13030mil,13190mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF_1 Between Pad F-1(11990mil,13170mil) on Multi-Layer And Pad F-2(12290mil,13170mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF12_1 Between Pad F12-2(17375mil,15260mil) on Multi-Layer And Pad F12-1(17375mil,15560mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF11_1 Between Pad F11-2(16670mil,15315mil) on Multi-Layer And Pad F11-1(16670mil,15615mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF10_1 Between Pad F10-2(15880mil,15280mil) on Multi-Layer And Pad F10-1(15880mil,15580mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF9_1 Between Pad F9-2(15120mil,15390mil) on Multi-Layer And Pad F9-1(15120mil,15690mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF8_1 Between Pad F8-2(14490mil,15290mil) on Multi-Layer And Pad F8-1(14490mil,15590mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF7_1 Between Pad F7-2(13600mil,15270mil) on Multi-Layer And Pad F7-1(13600mil,15570mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF6_1 Between Pad F6-2(12895mil,15240mil) on Multi-Layer And Pad F6-1(12895mil,15540mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF5_1 Between Pad F5-2(12170mil,15270mil) on Multi-Layer And Pad F5-1(12170mil,15570mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF4_1 Between Pad F4-2(11380mil,15390mil) on Multi-Layer And Pad F4-1(11380mil,15690mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF3_1 Between Pad F3-2(10660mil,15270mil) on Multi-Layer And Pad F3-1(10660mil,15570mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF2_1 Between Pad F2-2(9880mil,15165mil) on Multi-Layer And Pad F2-1(9880mil,15465mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetF1_1 Between Pad F1-2(9105mil,15255mil) on Multi-Layer And Pad F1-1(9105mil,15555mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetESC_1 Between Pad ESC-2(8410mil,15215mil) on Multi-Layer And Pad ESC-1(8410mil,15515mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetENTER_1 Between Pad ENTER-2(18405mil,13095mil) on Multi-Layer And Pad ENTER-1(18405mil,13395mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetEND_1 Between Pad END-2(20550mil,13825mil) on Multi-Layer And Pad END-1(20550mil,14125mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetE_1 Between Pad E-1(11030mil,13905mil) on Multi-Layer And Pad E-2(11330mil,13905mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetDOWN_1 Between Pad DOWN-2(20560mil,11595mil) on Multi-Layer And Pad DOWN-1(20560mil,11895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetDELETE_1 Between Pad DELETE-2(19825mil,13785mil) on Multi-Layer And Pad DELETE-1(19825mil,14085mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD_1 Between Pad D-1(11230mil,13160mil) on Multi-Layer And Pad D-2(11530mil,13160mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetCAPS_2 Between Pad CAPS-2(8625mil,13815mil) on Multi-Layer And Pad RCAP-1(19225.669mil,15896.079mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetCAPS_1 Between Pad CAPS-1(8525mil,14115mil) on Multi-Layer And Pad DCAP-1(19102.677mil,15872.457mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC_1 Between Pad C-1(11620mil,12430mil) on Multi-Layer And Pad C-2(11920mil,12430mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetBS_1 Between Pad BS-2(18505mil,14590mil) on Multi-Layer And Pad BS-1(18505mil,14890mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetB_1 Between Pad B-1(13125mil,12390mil) on Multi-Layer And Pad B-2(13425mil,12390mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetA_1 Between Pad A-1(9750mil,13125mil) on Multi-Layer And Pad A-2(10050mil,13125mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net`~_1 Between Pad `~-2(8360mil,14585mil) on Multi-Layer And Pad `~-1(8360mil,14885mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net]}_1 Between Pad ]}-2(17785mil,13825mil) on Multi-Layer And Pad ]}-1(17785mil,14125mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net\_1 Between Pad \-2(18705mil,13860mil) on Multi-Layer And Pad \-1(18705mil,14160mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net[{_1 Between Pad [{-2(16970mil,13860mil) on Multi-Layer And Pad [{-1(16970mil,14160mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net;_1 Between Pad ;-1(16485mil,13125mil) on Multi-Layer And Pad ;-2(16785mil,13125mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net/?_1 Between Pad /?-2(16740mil,12315mil) on Multi-Layer And Pad /?-1(16740mil,12615mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net.>_1 Between Pad .>-2(16085mil,12340mil) on Multi-Layer And Pad .>-1(16085mil,12640mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net-_1 Between Pad --2(16605mil,14620mil) on Multi-Layer And Pad --1(16605mil,14920mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net,<_1 Between Pad ,<-2(15310mil,12335mil) on Multi-Layer And Pad ,<-1(15310mil,12635mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net+=_1 Between Pad +=-2(17375mil,14595mil) on Multi-Layer And Pad +=-1(17375mil,14895mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net'"_1 Between Pad '"-2(17215mil,13065mil) on Multi-Layer And Pad '"-1(17215mil,13365mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net9_1 Between Pad 9-1(15150mil,14665mil) on Multi-Layer And Pad 9-2(15450mil,14665mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net8_1 Between Pad 8-1(14445mil,14600mil) on Multi-Layer And Pad 8-2(14745mil,14600mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net7_1 Between Pad 7-1(13675mil,14655mil) on Multi-Layer And Pad 7-2(13975mil,14655mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net6_1 Between Pad 6-1(12915mil,14665mil) on Multi-Layer And Pad 6-2(13215mil,14665mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net5_1 Between Pad 5-1(12175mil,14670mil) on Multi-Layer And Pad 5-2(12475mil,14670mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net4_1 Between Pad 4-1(11395mil,14620mil) on Multi-Layer And Pad 4-2(11695mil,14620mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net3_1 Between Pad 3-1(10710mil,14580mil) on Multi-Layer And Pad 3-2(11010mil,14580mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net2_1 Between Pad 2-1(9990mil,14580mil) on Multi-Layer And Pad 2-2(10290mil,14580mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net1_1 Between Pad 1-1(9140mil,14610mil) on Multi-Layer And Pad 1-2(9440mil,14610mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net Net0_1 Between Pad 0-1(15940mil,14595mil) on Multi-Layer And Pad 0-2(16240mil,14595mil) on Multi-Layer 
+Rule Violations :270
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 469
+Time Elapsed        : 00:00:01
